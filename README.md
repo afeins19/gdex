@@ -11,7 +11,10 @@ Gdex is a game title search platform designed to help users quickly find and exp
 - 🌙 Dark Mode Support – Browse games comfortably in low-light environments.
 
 ### 🛠️ Tech Stack
+- Manager/Creator: Vite
 - Frontend: React, TypeScript, Tailwind CSS
 - Backend (Planned): Node.js, Express.js
 - API: RAWG.io or IGDB for game data
 - Hosting: GitHub Pages
+
+
